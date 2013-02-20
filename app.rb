@@ -4,7 +4,7 @@ require 'sinatra/base'
 class DocPortApp < Sinatra::Base
 
   get '/' do
-		'hello world'
+    'hello world'
   end
 
 end

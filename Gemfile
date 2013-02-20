@@ -1,4 +1,4 @@
-source :rubygems 
+source :rubygems
 
 gem 'shotgun'
 gem 'sinatra'
